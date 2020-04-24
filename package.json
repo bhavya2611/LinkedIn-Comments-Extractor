@@ -1,0 +1,16 @@
+{
+  "name": "linked-in-comments-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extractComments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavya Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "puppeteer": "^2.1.1",
+    "puppeteer-core": "^2.1.1"
+  }
+}
